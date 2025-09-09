@@ -1,58 +1,32 @@
-# 📖 PROJETO ACADÊMICO: "PALAVRA ACESSÍVEL"
-## Canvas de Projeto de Impacto Social
+# 📖 Projeto Acadêmico: Palavra Acessível  
+
+[![PDF - Canvas](https://img.shields.io/badge/Arquivo-Canvas%20Projetos.pdf-blue)](./Canva%20Projetos.pdf)  
+[![PDF - Apresentação](https://img.shields.io/badge/Arquivo-Apresentação.pdf-green)](./Apresentação.pdf)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue)](https://www.linkedin.com)  
+
+Este repositório apresenta o projeto acadêmico **Palavra Acessível**, desenvolvido na disciplina de **Design Profissional** da **Universidade Cruzeiro do Sul (UNICID)**.  
+
+A proposta busca unir **design, inclusão e tecnologia** para gerar impacto social. Inspirado em experiências pessoais, o projeto tem como objetivo aproximar a **Palavra de Deus** de forma **acessível e digital**, promovendo autonomia, dignidade e inclusão.  
 
 ---
 
-### 🎯 **Sobre a Atividade**
+## 📂 Arquivos disponíveis  
 
-Atividade acadêmica da disciplina de **Design Profissional** da **Universidade Cruzeiro do Sul (UNICID)**.
-
-**Objetivo:** Desenvolver um Canvas de Projeto de Impacto Social que una sustentabilidade, inclusão e inovação através do design.
-
-> Este é um exercício acadêmico de Canvas, não um aplicativo real.
+- **Canva Projetos.pdf** → Estrutura completa do Canvas de Impacto Social.  
+- **Apresentação.pdf** → Material de apresentação do projeto.  
 
 ---
 
-### 💡 **A Ideia**
+## 🌍 Impacto Social  
 
-**Inspiração:** Observando minha avó e membros da igreja, percebi que muitos idosos têm a Bíblia como símbolo, mas enfrentam dificuldades para ler. Porém, usam WhatsApp com facilidade.
-
-**Proposta:** Estruturar ideias para um projeto que democratize o acesso à leitura bíblica para idosos, usando conceitos de interface familiar e acessibilidade.
-
----
-
-### 🌍 **Impacto Social Esperado**
-- Autonomia espiritual para idosos
-- Inclusão digital através de interface conhecida  
-- Democratização do acesso às Escrituras
-- Desenvolvimento de alfabetização funcional
+- Inclusão digital de idosos  
+- Democratização do acesso à fé  
+- Fortalecimento da autoestima e autonomia  
+- Sustentabilidade com foco em TI Verde  
 
 ---
 
-### 📊 **Canvas Estruturado**
+## 🔗 Créditos  
 
-O projeto foi organizado nas 7 seções obrigatórias:
-1. O Problema
-2. Solução Proposta  
-3. Público-Alvo
-4. Benefício/Diferencial
-5. Inclusão e Acessibilidade
-6. Impacto Social Esperado
-7. Sustentabilidade (TI Verde + parcerias comunitárias)
-
----
-
-### 📁 **Conteúdo**
-- `projeto-palavra-acessivel.pdf` - Canvas completo
-- `README.md` - Este arquivo
-
----
-
-### 🎓 **Detalhes Acadêmicos**
-**Universidade:** Cruzeiro do Sul (UNICID)  
-**Disciplina:** Design Profissional  
-**Data:** Setembro 2025
-
----
-
-*Atividade acadêmica focada na metodologia de Canvas para projetos de impacto social.*
+Projeto desenvolvido por **Ezequias Nascimento**  
+Disciplina: **Design Profissional – UNICID**  
